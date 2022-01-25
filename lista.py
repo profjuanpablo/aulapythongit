@@ -1,5 +1,5 @@
 # declaração de uma lista (nas outras linguagens chama-se ARRAY - Vetor)
-nomes = ['juan', 'kauanny', 'jorge', 'diogo', 'rAfael', 'eduardo']
+nomes = ['juan', 'kauanny', 'jorge', 'diogo', 'rAfael']
 idades = [46,18,38,30,43,38]
 print(nomes)
 print(idades)
